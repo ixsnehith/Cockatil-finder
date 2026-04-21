@@ -5,7 +5,7 @@ pipeline {
     }
     
     environment {
-        NGINX_WEB_ROOT = 'C:\nginx\nginx-1.29.8\html' 
+        NGINX_WEB_ROOT = 'C:\\nginx\\nginx-1.29.8\\html' 
     }
     
     stages {
